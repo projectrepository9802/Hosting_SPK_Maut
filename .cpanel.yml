@@ -1,0 +1,5 @@
+---
+deployment:
+tasks:
+- export DEPLOYPATH=/home/adrg7661/public_html/Laravel_SPK_Shinta_USU
+- /bin/cp -r * $DEPLOYPATH
